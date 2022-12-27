@@ -1,6 +1,6 @@
 ---
 title: Math 204: Masters Real Analysis
-date: 12-06-23
+date: 2022-09-24
 toc: false
 
 image:
