@@ -7,7 +7,7 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 4
 ---
 
-## Homework
+I will post the weekly homeworks here.
 
 [Homework 1](https://drive.google.com/file/d/1JXQqUkvqvIp_9r32kGN3GYM8opteheIA/view?usp=share_link)
 
