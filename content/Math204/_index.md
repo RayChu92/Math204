@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: Math 204
-linktitle: Math 204
+title: UCLA Math 204
+linktitle: UCLA Math 204
 summary: General Info on Math 204 for Winter 2023.
 weight: 1
 # icon: book
