@@ -1,5 +1,5 @@
 ---
-title: Math 204
+title: Math 204:
 date: 2022-09-24
 toc: false
 
