@@ -1,11 +1,11 @@
 ---
-title: ✍️ Second Brain
-date: 2022-09-24
+title: Courses
+date: 12-26-2022
 toc: false
 
 image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  filename: covers/Uxd_Blk_Mathematics_A.png
+  caption: UCLA Math
 ---
 
 Welcome to the _Second Brain_ template!
