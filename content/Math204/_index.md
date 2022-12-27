@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 title: Math 204
 linktitle: Math 204
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+summary: General Info on Math 204 for Winter 2023.
 weight: 1
 # icon: book
 # icon_pack: fas
