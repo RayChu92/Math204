@@ -17,4 +17,5 @@ image:
 ## Teaching Assistant [Thierry Laurens](https://www.math.ucla.edu/~laurenst/)
 
 **Office Hours** To Be Determined
+
 **Email** laurenst[at]math[dot]ucla[dot]edu
