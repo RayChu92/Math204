@@ -19,4 +19,4 @@ There will also be **one** **four** **hour** proctored **exam** during the quart
 
 Students will also be given **two** old basic qualification exams during week 3 and 7. Students will spend four hours attempting the exam. Afterwards, another peer will grade their exam. This portion will be graded for completion.
 
-In addition, starting in week 2 every student will meet Thierry two times throughout the quarter in a **one on one meeting for 30 minutes each time**. In this meeting, students will be asked to either solve previous homework problems or slight modification of previous homework problems.
+In addition, starting in week 2 every student will meet Thierry two times throughout the quarter in a **one on one meeting for 30 minutes each time**. In this meeting, students will be asked to either solve previous homework problems.
