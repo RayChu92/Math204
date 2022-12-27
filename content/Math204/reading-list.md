@@ -9,3 +9,5 @@ weight: 3
 I will post weekly lecture notes of the class material here.
 
 ## Lecture Notes
+
+**Week 1** [Summation](https://drive.google.com/file/d/1JXQqUkvqvIp_9r32kGN3GYM8opteheIA/view?usp=share_link)
