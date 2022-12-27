@@ -1,5 +1,5 @@
 ---
-title: Math 204: Masters Real Analysis
+title: ✍️ Second Brain
 date: 2022-09-24
 toc: false
 
