@@ -12,8 +12,9 @@ image:
 
 **Office Hours** To Be Determined
 
-**Email** rchu[at]math[dot]ucla[edu]
+**Email** rchu[at]math[dot]ucla[dot]edu
 
 ## Teaching Assistant [Thierry Laurens](https://www.math.ucla.edu/~laurenst/)
 
 **Office Hours** To Be Determined
+**Email** laurenst[at]math[dot]ucla[dot]edu
