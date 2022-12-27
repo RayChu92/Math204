@@ -7,7 +7,7 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 1
 ---
 
-## Instructor [Raymond Chu][https://raymondchu.netlify.app]
+## Instructor [Raymond Chu](https://raymondchu.netlify.app)
 
 **Office Hours** To Be Determined
 
@@ -15,7 +15,7 @@ weight: 1
 
 **Email** rchu[at]math[dot]ucla[dot]edu
 
-##Teaching Assistant [Thierry Laurens][https://www.math.ucla.edu/~laurenst/index.html]
+## Teaching Assistant [Thierry Laurens](https://www.math.ucla.edu/~laurenst/index.html)
 
 **Office Hours** To Be Determined
 
