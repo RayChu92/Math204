@@ -1,5 +1,5 @@
 # [Hugo Second Brain Theme](https://github.com/wowchemy/hugo-second-brain-theme)
-
+Hiiiii
 [![Screenshot](./preview.webp)](https://wowchemy.com/hugo-themes/)
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
